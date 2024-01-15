@@ -1,9 +1,10 @@
 body {
 	font-family: sans-serif;
+	font-size: 14px;
 }
 
 h1, h2 {    
-	color: gray;
+	color: rgb(39, 30, 61);
 }
 
 h1 { 
@@ -14,8 +15,10 @@ p {
 	color: maroon;
 }
 
-p.greentea {
-	color: green;
+.greentea {
+	color: rgb(49, 97, 49);
+	border-color: black;
+	background: rgba(204, 218, 216, 0.486);
 }
 
 /* em {
