@@ -1,25 +1,28 @@
 body {
-	font-family: sans-serif;
+	font-family: Verdana, Geneva, Arial, sans-serif;
 	font-size: 14px;
+	color: rgb(7, 49, 58);
+	font-weight: bolder;
+	text-decoration: aliceblue;
 }
 
-h1, h2 {    
+/* h1, h2 {    
 	color: rgb(39, 30, 61);
-}
+} */
 
 h1 { 
 	border-bottom: 5px solid black;
 }
 
-p {
+/* p {
 	color: maroon;
-}
+} */
 
-.greentea {
+/* .greentea {
 	color: rgb(49, 97, 49);
 	border-color: black;
 	background: rgba(204, 218, 216, 0.486);
-}
+} */
 
 /* em {
 	color: rgb(255, 0, 0);
