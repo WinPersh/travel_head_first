@@ -1,8 +1,42 @@
+@font-face {
+    font-family: "Emblema One";
+    src: url("../fonts/EmblemaOne-Regular.woff"),
+        url("../fonts/EmblemaOne-Regular.ttf");
+}
+
 body {
-	font-family: Verdana, Geneva, Arial, sans-serif;
-	font-size: 15px;
-	color: rgb(7, 49, 58);
-	font-weight: bolder;
-	text-decoration: aliceblue;
+    /* font-family: Verdana, Geneva, Arial, sans-serif; */
+    /* font-family: fantasy; */
+    /* font-size: 15px; */
+    color: rgb(7, 49, 58);
+    font-weight: bolder;
     background-color: beige;
+    font-family: "Emblema One", sans-serif;
+    font-size: medium;
+    font-style: inherit;
+    line-height: 1.8em;
+    ;
+}
+
+h1 {
+    font-family: "Emblema One", sans-serif;
+    font-size: 220%;
+    border-bottom: thin dotted #888888;
+}
+
+h2 {
+    font-size: 130%;
+    border-bottom: thin dotted #888888;
+}
+
+blockquote,
+q {
+    font-style: italic;
+}
+
+.guarantee {
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    background-color: #a7cece;
 }
