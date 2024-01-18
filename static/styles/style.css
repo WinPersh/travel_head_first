@@ -34,20 +34,35 @@ q {
     font-style: italic;
 }
 
-.guarantee {
-    border-color: black;
-    border-width: 1px;
-    border-style: solid;
+#guarantee {
+    border-color: rgb(227, 231, 162);
+    border-width: 5px;
+    border-style: outset;
+    /* border-style: dashed; */
+    /* border-radius: 15px; */
+    /* border-color: beige; */
+
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 15px;
+
     background-color: #a7cece;
-    padding: 25px;
-    padding-left: 80px;
+    padding: 10px;
+    /*Набивка*/
+    padding-left: 7%;
     margin: 30px;
-    margin-right: 600px;
+    margin-right: 25%;
+    margin-left: 5%;
     font-style: italic;
     font-family: Georgia, "Times New Roman", Times, serif;
     color: #444444;
     background-image: url(../images/background.gif);
     background-repeat: no-repeat;
     background-position: top left;
-    
+
+}
+
+#footer {
+    color: red;
 }
