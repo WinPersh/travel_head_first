@@ -49,8 +49,8 @@ q {
 
     background-color: #a7cece;
     padding: 10px;
-    /*Набивка*/
     padding-left: 7%;
+
     margin: 30px;
     margin-right: 25%;
     margin-left: 5%;
@@ -60,9 +60,45 @@ q {
     background-image: url(../images/background.gif);
     background-repeat: no-repeat;
     background-position: top left;
+}
+
+#header {
+    width: 800px;
+
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 15px;
+    border-width: 10px;
+    border-style: outset;
+    border-color: rgb(227, 231, 162);
+
+    padding: 10px;
+    padding-left: 7%;
+
+    margin: 30px;
+    margin-right: 24%;
+    margin-left: 24%;
 
 }
 
-#footer {
-    color: red;
+#main {
+    width: 1200px;
+
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 15px;
+    border-width: 5px;
+    border-style: outset;
+    border-color: rgb(227, 231, 162);
+
+    padding: 10px;
+    padding-left: 2%;
+    padding-right: 2%;
+
+    margin: 30px;
+    margin-right: 24%;
+    margin-left: 13%;
+
 }
