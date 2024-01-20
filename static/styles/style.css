@@ -5,17 +5,15 @@
 }
 
 body {
-    /* font-family: Verdana, Geneva, Arial, sans-serif; */
-    /* font-family: fantasy; */
-    /* font-size: 15px; */
+    font-family: Verdana, Geneva, Arial, sans-serif;
+    font-size: 15px;
     color: rgb(7, 49, 58);
     font-weight: bolder;
     background-color: beige;
-    font-family: "Emblema One", sans-serif;
+    /* font-family: "Emblema One", sans-serif; */
     font-size: medium;
     font-style: inherit;
     line-height: 1.8em;
-    ;
 }
 
 h1 {
@@ -79,11 +77,10 @@ q {
     margin: 30px;
     margin-right: 24%;
     margin-left: 24%;
-
 }
 
 #main {
-    width: 1200px;
+    width: 1381px;
 
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
@@ -94,11 +91,12 @@ q {
     border-color: rgb(227, 231, 162);
 
     padding: 10px;
-    padding-left: 2%;
-    padding-right: 2%;
+    padding-left: 1%;
+    padding-right: 1%;
 
     margin: 30px;
     margin-right: 24%;
-    margin-left: 16%;
+    margin-left: 10%;
 
+    text-align: justify;
 }
