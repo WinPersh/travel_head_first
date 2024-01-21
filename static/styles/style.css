@@ -77,6 +77,8 @@ q {
     margin: 30px;
     margin-right: 24%;
     margin-left: 24%;
+
+    
 }
 
 #main {
@@ -98,5 +100,12 @@ q {
     margin-right: 24%;
     margin-left: 10%;
 
-    text-align: justify;
+    /* text-align: justify; */
+    /* background-image: url(../images/cocktail.gif);
+    background-repeat: repeat-x;
+    background-position: top;     */
+}
+
+#main h2{
+    color: blueviolet;
 }
