@@ -33,13 +33,10 @@ q {
 }
 
 #guarantee {
-    border-color: rgb(227, 231, 162);
+    border-color: rgb(155, 156, 125);
     border-width: 5px;
     border-style: outset;
-    /* border-style: dashed; */
-    /* border-radius: 15px; */
-    /* border-color: beige; */
-
+    
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 0px;
@@ -49,8 +46,8 @@ q {
     padding: 10px;
     padding-left: 7%;
 
-    margin: 30px;
-    margin-right: 25%;
+    margin: 10px;
+    margin-right: 5%;
     margin-left: 5%;
     font-style: italic;
     font-family: Georgia, "Times New Roman", Times, serif;
@@ -76,13 +73,44 @@ q {
 
     margin: 30px;
     margin-right: 24%;
-    margin-left: 24%;
+    margin-left: 13%;
 
-    
+
 }
 
-#main {
+/* #main {
     width: 1381px;
+
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 15px;
+    border-width: 5px;
+    border-style: outset;
+    border-color: rgb(114, 114, 84);
+
+    padding: 10px;
+    padding-left: 1%;
+    padding-right: 3%;
+
+    margin: 5px;
+    margin-right: 2%;
+    margin-left: 2%;
+
+} */
+
+#main h2 {
+    color: rgb(56, 61, 49);
+}
+
+#main span {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+
+}
+
+.day {
+    width: 1000px;
 
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
@@ -94,24 +122,13 @@ q {
 
     padding: 10px;
     padding-left: 1%;
-    padding-right: 1%;
+    padding-right: 3%;
 
     margin: 30px;
-    margin-right: 24%;
+    margin-right: 5%;
     margin-left: 10%;
 
-    /* text-align: justify; */
-    /* background-image: url(../images/cocktail.gif);
-    background-repeat: repeat-x;
-    background-position: top;     */
-}
-
-#main h2{
-    color: blueviolet;
-}
-
-#main span{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: x-large;
-    
+    background-image: url(../images/binding3.png);
+    background-repeat: repeat-y;
+    background-position: right;
 }
