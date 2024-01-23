@@ -57,26 +57,7 @@ q {
     background-position: top left;
 }
 
-#header {
-    width: 650;
 
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-right-radius: 0px;
-    border-bottom-left-radius: 15px;
-    border-width: 10px;
-    border-style: outset;
-    border-color: rgb(227, 231, 162);
-
-    padding: 10px;
-    padding-left: 7%;
-
-    margin: 30px;
-    margin-right: 672px;
-    margin-left: 5%;
-
-
-}
 
 /* #main {
     width: 1381px;
@@ -131,4 +112,26 @@ q {
     background-image: url(../images/binding3.png);
     background-repeat: repeat-y;
     background-position: left;
+}
+
+#header {
+    /* width: 650; */
+
+    /* border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 15px;
+    border-width: 10px;
+    border-style: outset;
+    border-color: rgb(227, 231, 162); */
+
+    /* padding: 10px;
+    padding-left: 7%;
+
+    margin: 30px;
+    margin-right: 672px;
+    margin-left: 5%; */
+
+    border-color: rgb(146, 148, 104);
+
 }
