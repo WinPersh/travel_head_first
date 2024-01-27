@@ -135,3 +135,7 @@ q {
     border-color: rgb(182, 185, 126);
 
 }
+
+.day>img{
+    max-width: 200px;
+}

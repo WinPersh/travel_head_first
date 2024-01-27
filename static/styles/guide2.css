@@ -1,0 +1,16 @@
+.list_container{
+    display: inline-block;
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: rgb(21, 21, 24);
+    padding-right: 20px; 
+}
+
+.list_container>p {
+    text-align: center;
+    font-weight: bold;
+}
+
+img{
+    float: right;
+}
