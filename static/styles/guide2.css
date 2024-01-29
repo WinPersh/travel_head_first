@@ -67,3 +67,28 @@ body{
     }
 }
 
+.page_text{
+    padding-left: 15px;
+}
+
+.page{
+    display: flex;
+    justify-content: center;
+}
+
+.header{
+    width: 14%;
+    background-color: rgb(222, 227, 245);
+}
+
+.header>ul{
+    list-style: none;
+    border-bottom-style: solid;
+    border-width: 0.5px;
+    margin: 10px;
+    padding: 0;
+}
+
+.section{
+    width: 82%;
+}
