@@ -1,0 +1,32 @@
+/* 
+по тегу 1
+по классу 10
+по id 100
+стиль в самом теге 1000
+через . складываются
+*/
+
+.main.with_border{
+    background-color: blue;
+    border-style: dashed;
+    border-radius: 10%;
+}
+
+.main{
+    background-color: aqua;
+}
+
+.with_border{
+    border-style: dotted;
+    border-width: 0.5px;
+}
+
+/* Наследование */
+.main p{
+    font-size: x-large;
+}
+
+/* Только  к .main>p*/
+.main > p {
+    font-style: italic;
+}
