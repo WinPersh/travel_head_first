@@ -4,10 +4,40 @@ html{
 /* p{
     font-size: 30px;
 } */
-ul{
+/* ul{
     list-style: disc;
 }
 
 li{
     font-size: 0.55rem;
+} */
+
+p{
+    font-size: 2em;
 }
+
+div{
+    width: 300px;
+    height: 300px;
+    margin: 4em;
+    font-size: 0.85rem;
+}
+
+#red{
+    background-color: red;
+}
+
+#green{
+    background-color: green;
+}
+
+#gray{
+    background-color: gray;
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+
+
