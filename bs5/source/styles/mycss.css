@@ -1,3 +1,7 @@
+body {
+    background: linear-gradient(50deg, #2d9a48 0%, #229b93 100%);
+}
+
 .nav-link{
     color: aquamarine;
 }
